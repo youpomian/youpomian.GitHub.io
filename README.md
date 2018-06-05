@@ -1,37 +1,5 @@
 ## 工业区的油泼面，好好味
 
-You can use the [editor on GitHub](https://github.com/youpomian/youpomian.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>#屌丝美食#“去，喊你达他们吃饭，”母亲对妹妹说。吃啥呢？油泼面。关中人对扯面的感情近乎于信仰，扯面扯得和人生一样漫长。这种怪异的吃法是何时形成的已不可考，缺少蔬菜的季节，一碗扯面泼上油辣子，醋出头，只有最热爱生活的人才能在漫长的贫瘠中创造如此简陋的美食。这就是家的味道，燎得很。 ​​​​
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youpomian/youpomian.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
